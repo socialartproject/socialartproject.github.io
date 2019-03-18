@@ -23,8 +23,17 @@ img {
 }
 
 .img {
-	max-width: 100vh;
-	max-height: 100vh;
+	width: 100%;
+	padding: 1vh;
+	max-width: 100vmin;
+	max-height: 100vmax;
+}
+
+.imgmi {
+	height: 100%;
+	padding: 1vh;
+	max-height: 100vmin;
+	max-width: 100vmax;
 }
 
 p {
