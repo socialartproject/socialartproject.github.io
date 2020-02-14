@@ -1,2 +1,0 @@
-# socialartproject.github.io
-Website
